@@ -1,0 +1,153 @@
+h1{
+position: absolute;
+top: 240px;
+left: 570px;
+font-size: 5rem;
+text-align:center;
+}
+
+hr{border: 6px dotted #8DB596;
+    border-style: none none dotted;
+    width:15%;
+    }
+
+hr:hover{
+border-color:#F4DFBA;
+}
+.hr2{
+position:absolute;
+left:43%;
+}
+
+.intro{
+position: absolute;
+top:420;
+left:630;
+font-size: 2rem;
+}
+
+
+h2{
+font-size: 35px;
+margin: 100px 0px 30px;
+color:#00C897;
+}
+h3{
+font-size: 30px;
+margin: auto 20 auto 310;
+color:#7CD1B8;
+}
+
+.exception{
+margin-right:300px;
+}
+
+.image{
+display: block;
+width: 1518px;
+height: 725px;
+margin: 0 auto;
+}
+
+.git{
+margin:40 50 0 0;
+height:60px;
+}
+
+.p2 {
+height:310;
+position: absolute;
+top: 470px;
+left:590;
+}
+
+.gamer{
+height:170px;
+float: left;
+margin-right:0px;
+}
+
+.pro{
+height:150;
+margin-right:100px;
+float: right;
+text-align:center;
+}
+body{
+text-align:center;
+margin:0;
+top:0;
+font-family: 'Caveat', cursive;
+color: #40514E;
+}
+p{
+font-family: 'Roboto', sans-serif;
+}
+.top {
+background-color:#FFEBC1;
+height:500px;
+}
+.mid{
+background-color:#DBF6E9;
+height:734;
+padding:250;
+}
+.bottom{
+background-color:#2D6187;
+padding:20px 0 0 0;
+line-height:2;
+margin: 25px;
+width:100.35%;
+position: absolute;
+left:-2%;
+}
+
+
+p{
+padding:5px;}
+.skills{
+display:block;}
+.bottom-1{
+padding:30px;
+}
+.btn {
+  background: #6efffa;
+  background-image: -webkit-linear-gradient(top, #6efffa, #52bfbd);
+  background-image: -moz-linear-gradient(top, #6efffa, #52bfbd);
+  background-image: -ms-linear-gradient(top, #6efffa, #52bfbd);
+  background-image: -o-linear-gradient(top, #6efffa, #52bfbd);
+  background-image: linear-gradient(to bottom, #6efffa, #52bfbd);
+  -webkit-border-radius: 18;
+  -moz-border-radius: 18;
+  border-radius: 18px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #1ee4fa;
+  background-image: -webkit-linear-gradient(top, #1ee4fa, #128cb8);
+  background-image: -moz-linear-gradient(top, #1ee4fa, #128cb8);
+  background-image: -ms-linear-gradient(top, #1ee4fa, #128cb8);
+  background-image: -o-linear-gradient(top, #1ee4fa, #128cb8);
+  background-image: linear-gradient(to bottom, #1ee4fa, #128cb8);
+  text-decoration: none;
+}
+
+a{
+color:#11999E;
+padding:3%;
+text-decoration:none;
+font-size:22px;
+font-family: arial ;
+
+}
+a:hover{
+color:#D2F5E3;
+}
+
+.last{
+color:#D2F5E3;}
